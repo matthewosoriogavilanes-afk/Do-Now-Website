@@ -1,6 +1,7 @@
 body{
     background-color:#faf4d3;
     font-family:"Share Tech";
+    margin: 0;
 }
 .share-tech-regular {
     font-family: "Share Tech", sans-serif;
@@ -11,6 +12,7 @@ body{
     color: #faf4d3; 
     text-align: center;
     background-color: #004643;
+       margin-top: 0;
   } 
   
   .highlight-red{
